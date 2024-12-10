@@ -212,7 +212,7 @@ const Footer = () => {
           <p className="mt-3 text-white text-center">
             Shabiya 12,Mussafah <br />
             Abu Dhabi, UAE <br />
-            +971 5899 6600 <br />
+            +971 58989 6600 <br />
             qbee.mussafah@gmail.com
           </p>
         </div>
