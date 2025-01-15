@@ -44,7 +44,7 @@ const Contact = () => {
             </div>
 
             <p className="text-gray-700 text-lg mt-2">
-              +971 58989 6600, +971 50 8768 143
+              Landline : +971 2 517 5886, Mobile : +971 58 9896 600, +971 50 8768 143
             </p>
             <p className="text-gray-700 text-lg">
               Shabiya 12, Mussafah, Abu Dhabi, UAE
