@@ -46,6 +46,9 @@ const Contact = () => {
             <p className="text-gray-700 text-lg mt-2">
               Landline : +971 2 517 5886, Mobile : +971 58 9896 600, +971 50 8768 143
             </p>
+            <p className="text-gray-700 text-lg mt-2">
+              Email : info@qbeelaundry.com, contact@qbeelaundry.com
+            </p>
             <p className="text-gray-700 text-lg">
               Shabiya 12, Mussafah, Abu Dhabi, UAE
             </p>
