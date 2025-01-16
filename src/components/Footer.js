@@ -112,7 +112,7 @@ const Footer = () => {
             Abu Dhabi, UAE <br />
             Landline : +971 2 517 5886 <br />
             Mobile : +971 58989 6600 <br />
-            qbee.mussafah@gmail.com
+            Email : info@qbeelaundry.com, contact@qbeelaundry.com
           </p>
         </div>
       </div>
@@ -215,7 +215,7 @@ const Footer = () => {
             Abu Dhabi, UAE <br />
             Landline : +971 2 517 5886 <br />
             Mobile : +971 58989 6600 <br />
-            qbee.mussafah@gmail.com
+            Email : info@qbeelaundry.com, contact@qbeelaundry.com
           </p>
         </div>
       </div>
